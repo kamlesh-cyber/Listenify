@@ -9,7 +9,7 @@ public class Song {
         this.duration = duration;
     }
 
-    //toString is inbuild fun in java to print obj in nice (clear) way ..
+    //toString is inbuilt fun in java to print obj in nice (clear) way ..
     @Override
     public String toString() {
         return "Printing Song{" +
